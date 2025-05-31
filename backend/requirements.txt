@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+python-dotenv
+openai
+moviepy
+pydub
+flask_cors
