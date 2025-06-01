@@ -27,6 +27,12 @@ A full-stack application that allows users to upload MP4 videos, automatically t
 - Asynchronous processing with real-time status updates
 - Clean, responsive UI built with Next.js and TailwindCSS
 
+> [!IMPORTANT]
+>  This project requires a **ChatGPT API key** from OpenAI to run and test properly.
+> - The API key must be from a **paid OpenAI account**.
+> - Free-tier accounts **do not** have access to the ChatGPT API.
+> - You can obtain an API key at: [https://platform.openai.com/](https://platform.openai.com/)
+
 ## 🏗️ Architecture
 
 The application consists of two main components:
